@@ -5,7 +5,7 @@ web/API security testing, vulnerability research, and lessons learned.
 
 ## Research Period
 
-**October 1, 2026 — December 31, 2026**
+**October 6, 2026 — December 31, 2026**
 
 ## Structure
 

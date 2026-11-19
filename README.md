@@ -1,20 +1,17 @@
 # Bug Bounty Research Journal
 
-A practical security research journal documenting my bug bounty hunting,
-web/API security testing, vulnerability research, and lessons learned.
+My personal daily web security and bug bounty hunting journal.
 
 ## Research Period
-
-**October 1, 2026 — December 31, 2026**
+December 2026 – June 2027
 
 ## Structure
+Each month has its own folder.
+Each hunting day has one Markdown file named by date.
 
-```text
-Daily-Hunting/
-    Daily research and hunting activity
+All daily activities, targets, testing, findings, duplicates,
+learnings and next steps are documented in that day's file.
 
-Bounty-Findings/
-    Confirmed/submitted bounty findings
-
-Duplicate-Findings/
-    Duplicate submissions and useful observations
+## Responsible Disclosure
+All testing is performed only on authorized targets.
+Sensitive information is never published.
